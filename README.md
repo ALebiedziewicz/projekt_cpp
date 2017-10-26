@@ -1,6 +1,6 @@
 # projekt_cpp
 
-Planuję zrobić grę "chińczykchińczyk".
+Planuję zrobić grę "chińczyk".
 
 # wstępne założenia 
 
